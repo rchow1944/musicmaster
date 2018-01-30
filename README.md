@@ -1,3 +1,5 @@
+Please follow the steps shown in the link: http://www.angular-city.com/2017/07/spotify-web-api-access.html to create a Spotify account and linking it with the app. You will need to add the "web-api0auth-examples" folder to allow Spotify authentication.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
